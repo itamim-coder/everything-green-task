@@ -1,0 +1,15 @@
+[
+  {
+    "eventType": "user.created",
+    "data": {
+      "name": "test22",
+      "email": "test22@test.com",
+      "role": "user",
+      "_id": "67acd83705ea2db1f9fd2338",
+      "createdAt": "2025-02-12T17:19:51.114Z",
+      "updatedAt": "2025-02-12T17:19:51.114Z",
+      "__v": 0
+    },
+    "timestamp": "2025-02-12T17:19:51.388Z"
+  }
+]
